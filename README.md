@@ -1,0 +1,2 @@
+# CampusIQ
+College Recommended System
